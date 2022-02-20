@@ -1,0 +1,11 @@
+{
+  "StartPosition": "0, 1",
+  "StartDirection": "North",
+  "SizeBoard": "4, 5",
+  "Exit": "3, 2",
+  "MinePosition": [
+    "1, 2",
+    "2, 3",
+    "3, 3"
+  ]
+}
